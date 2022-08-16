@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
   
  
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block"><br>
   
   <img align="center" alt="AnndSouza-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AnndSouza-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
