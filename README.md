@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   </a> 
   <a href = "mailto:anndsousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="linkedin.com/in/anderson-da-silva-souza-03572a20b" target="_blank">
+  <a href="https://www.linkedin.com/in/anderson-da-silva-souza-03572a20b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7WZRAH64TYq2kbIaG33Mgg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
  
