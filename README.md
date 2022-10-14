@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm Brazilian and I'm currently looking to improve my knowledge in .net, to work on what I like to do, Developer or Quality Assurance.
 
+<br>
+
 <div align="center">
   <a href="https://github.com/AnndSouza">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnndSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnndSouza&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnndSouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  <br>
   
  
 <div align="center" style="display: inline_block"><br>
@@ -26,10 +29,14 @@ Here are some ideas to get you started:
   <img align="center" alt="AnndSouza-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="AnndSouza-C-Sharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   
-<img align="center" color="blank" alt="AnndSouza-SqlServer" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img align="center" color="blank" alt="AnndSouza-SqlServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+
+<img align="center" alt="AnndSouza-C-Sharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
           
 
 </div>
+
+<br>
  
 
 <div  align="center"> 
