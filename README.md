@@ -26,7 +26,8 @@ Here are some ideas to get you started:
   <img align="center" alt="AnndSouza-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="AnndSouza-C-Sharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   
-<img align="center" color="blank" alt="AnndSouza-SqlServer" height="50" width="60" src="https://raw.githubusercontent.com/AnndSouza/images/main/pngwing.com.png?token=GHSAT0AAAAAABXWQYNUQQTOEK4GDXVGYTQKY2JWILQ" >
+<img align="center" color="blank" alt="AnndSouza-SqlServer" height="50" width="60" src="https://raw.githubusercontent.com/AnndSouza/images/main/pngwing.com.png?token=GHSAT0AAAAAABXWQYNUQQTOEK4GDXVGYTQKY2JWILQ" />
+
 </div>
  
 
